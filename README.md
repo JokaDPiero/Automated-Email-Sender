@@ -12,5 +12,6 @@ pip install library_name
 git clone https://github.com/JokaDPiero/Automated-Email-Sender.git
 ```
 3.Set proper names and email ids to send mails.
+
 4.Run the py script.
 ### Thats it!! Enjoy.
