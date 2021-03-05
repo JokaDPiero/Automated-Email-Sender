@@ -1,0 +1,5 @@
+pyaudio
+speech recognition
+pyttsx3 
+smtplib
+getpass
