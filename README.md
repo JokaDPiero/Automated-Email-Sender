@@ -11,5 +11,6 @@ pip install library_name
 ```bash
 git clone https://github.com/JokaDPiero/Automated-Email-Sender.git
 ```
-3.Run the py script.
-### Thats it!! Enjoy encrypting.
+3.Set proper names and email ids to send mails.
+4.Run the py script.
+### Thats it!! Enjoy.
